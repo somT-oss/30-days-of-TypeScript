@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "4.3.2",
+  "description": "Typescript Version ",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somT-oss/30-days-of-TypeScript.git"
+  },
+  "author": "Somtochukwu Uchegbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somT-oss/30-days-of-TypeScript/issues"
+  },
+  "homepage": "https://github.com/somT-oss/30-days-of-TypeScript#readme"
+}
