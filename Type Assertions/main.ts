@@ -13,7 +13,7 @@ secondMessage = 'abc';
 
 // In the variable we decleared above it has a data type of any, and cannot be able to use the in-built function 'endswith' of a string. if we want to use any in-built message applicable to only stringd we can use it by adding this to our code.
 
-let endsWihtC = (<string>secondMessage).endsWith("c")
+let checkEndsWihtC = (<string>secondMessage).endsWith("c")
 let alternativeWay = (secondMessage  as string).endsWith("c")
 
 // And that is how we do it uding type assertions 
